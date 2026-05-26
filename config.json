@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filteruave",
+        "uuid": 2908197,
+        "checksum": "1nb0is"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
